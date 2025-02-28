@@ -1,0 +1,7 @@
+C:\Users\dmitr\source\repos\Lab2.0\bin\Debug\Lab2.0.exe.config
+C:\Users\dmitr\source\repos\Lab2.0\bin\Debug\Lab2.0.exe
+C:\Users\dmitr\source\repos\Lab2.0\bin\Debug\Lab2.0.pdb
+C:\Users\dmitr\source\repos\Lab2.0\obj\Debug\Lab2.0.csproj.AssemblyReference.cache
+C:\Users\dmitr\source\repos\Lab2.0\obj\Debug\Lab2.0.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\source\repos\Lab2.0\obj\Debug\Lab2.0.exe
+C:\Users\dmitr\source\repos\Lab2.0\obj\Debug\Lab2.0.pdb
